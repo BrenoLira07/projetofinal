@@ -1,0 +1,43 @@
+--Saiba Mias ----------------------------------------------------------------
+
+1. Sobre o Projeto 'LocalizeAqui'
+Propósito: Explicação sobre o projeto como uma ferramenta digital para resolver o problema dos itens perdidos na escola.
+Motivação: O projeto surge pela alta demanda de alunos e funcionários que frequentemente perdem objetos na escola e enfrentam dificuldades para recuperá-los.
+Benefícios esperados: Reduzir o tempo de busca e proporcionar um ambiente mais organizado.
+
+2. Por Que Criamos o LocalizeAqui?
+Problemas enfrentados atualmente: Explicar como a ausência de um sistema estruturado impacta a rotina escolar e causa insatisfação.
+Vantagens da plataforma: Organização, praticidade e redução do impacto acadêmico.
+Responsabilidade social: A plataforma foi criada para facilitar o cotidiano escolar e apoiar a equipe pedagógica.
+
+3. Objetivos do Projeto
+Objetivo Geral: Criar uma plataforma que simplifique o gerenciamento de objetos perdidos e achados.
+Objetivos Específicos:
+Simplificar o processo de registro de objetos perdidos.
+Oferecer uma experiência de busca eficiente e acessível.
+Respeitar a Lei Geral de Proteção de Dados (LGPD).
+
+4. Como Funciona o LocalizeAqui?
+Registro de Itens: Explicação sobre o formulário de registro e o tipo de informação solicitada para melhor identificação dos itens.
+Consulta de Itens: Como os usuários podem buscar e visualizar informações sobre objetos perdidos.
+Remoção de Itens: Processo para retirada de itens do sistema após a devolução ao dono.
+
+5. Tecnologias Utilizadas no Projeto
+Desenvolvimento Simplificado: Utilização de tecnologias como HTML, CSS e JavaScript.
+Armazenamento Local: Uso do localStorage para simulação de persistência de dados, destacando que esta é uma abordagem inicial que poderá ser melhorada futuramente.
+Responsividade: Interface amigável e acessível tanto em computadores quanto dispositivos móveis, facilitando o uso em qualquer lugar da escola.
+
+6. Como O Projeto Foi Desenvolvido?
+Planejamento e Análise de Necessidades: O estudo inicial envolveu uma compreensão profunda das necessidades de alunos e funcionários.
+Desenvolvimento e Testes: O site foi desenvolvido com uma interface simplificada e testado para garantir funcionalidade e acessibilidade.
+Documentação e Suporte: Preparação de relatórios e guias de uso para facilitar a implementação e o entendimento do sistema.
+
+7. Impacto Esperado do LocalizeAqui
+Organização e Eficiência: Melhora na gestão de itens perdidos, criando um ambiente mais organizado no setor pedagógico.
+Satisfação dos Usuários: Agilidade no processo de devolução, promovendo maior satisfação para alunos e funcionários.
+Apoio Acadêmico: Redução do impacto negativo nas aulas, ajudando os alunos a manter o foco sem interrupções para procurar objetos.
+
+8. Expansões Futuras
+Banco de Dados: Perspectiva de implementar um banco de dados completo para um armazenamento seguro e duradouro.
+Autenticação de Usuários: Plano para adicionar funcionalidades de login, aumentando a segurança e privacidade dos dados.
+Inovações no Gerenciamento de Itens: Explorar opções de busca avançada e integração de notificações para alertar os donos dos objetos encontrados.
